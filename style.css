@@ -262,28 +262,4 @@ section img#mountains_front {
   background: #fff;
 }
 
-.media-card {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 100%;
-  height: 80px;
-}
-
-.media-icon {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 80px;
-  height: 80px;
-  border-radius: 50%;
-  background-color: #ffffff;
-  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.3);
-}
-
-.media-icon img {
-  width: 50%;
-  height: auto;
-}
-
 
